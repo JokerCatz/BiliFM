@@ -24,6 +24,7 @@ HEADERS = {
     "sec-fetch-site": "none",
     "sec-fetch-user": "?1",
     "upgrade-insecure-requests": "1",
+    "cookie": "buvid3=DC4F3C4B-B5A1-8243-8A22-74B2F9DB398317965infoc;",
     "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
     # "Referer": "https://www.bilibili.com/video/{bvid}".format(bvid=self.bvid),
 }
